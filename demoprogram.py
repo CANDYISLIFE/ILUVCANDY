@@ -1,1 +1,1 @@
-fghxf
+print("Hello, world.")
